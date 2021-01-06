@@ -1,4 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=conradk10)](https://github.com/conradk10/github-readme-stats)
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=conradk10)](https://github.com/conradk10/github-readme-stats)
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/telegram.svg" />
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/vk.svg" />
