@@ -4,11 +4,6 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=conradk10)](https://github.com/conradk10/github-readme-stats)
 </br>
 ## Контакты
-<a href="https://t.me/zxvghost666"><img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/telegram.svg"/></a>
-
-<a href="https://instagram.com/zxvghost666"><img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/instagram.svg"/></a>
-
-
   [<img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/telegram.svg"/>](https://t.me/zxvghost666)
   [<img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/vk.svg"/>](https://vk.com/zxvghost666)
-  []
+  [<img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/instagram.svg"/>](https://instagram.com/zxvghost666)
