@@ -1,5 +1,5 @@
 ## Hi 👋, 
-I'm Eugene Conrad, I'm a passionate self-taught software developer/embedded engineer from Ukraine, Dnipro.
+I'm Eugene Conrad, I'm a self-taught software developer/embedded engineer from Ukraine, Dnipro.
 
 ### 👨🏻‍💻 &nbsp;About Me
 
