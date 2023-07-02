@@ -4,7 +4,7 @@ I'm Eugene Conrad, I'm a self-taught software developer/embedded engineer from U
 ### 👨🏻‍💻 &nbsp;About Me
 
 - 🔭 I’m currently working on Telegram-interacting apps
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python (Flask)
 - 📌 I'm interested in Programming, Embedded, IoT, etc
 - 🤝 I’m looking to collaborate on Python Projects
 - 💪 My goal is to become a highly sought-after full-stack developer
