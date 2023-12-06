@@ -49,42 +49,6 @@ I'm Eugene Conrad, I'm a self-taught software developer/embedded engineer from U
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.8%20million%20lines%20of%20code-blue)
 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                17 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
-🌆 Daytime                179 commits         █████████░░░░░░░░░░░░░░░░   36.23 % 
-🌃 Evening                197 commits         ██████████░░░░░░░░░░░░░░░   39.88 % 
-🌙 Night                  101 commits         █████░░░░░░░░░░░░░░░░░░░░   20.45 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   66 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
-Tuesday                  72 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
-Wednesday                68 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
-Thursday                 117 commits         ██████░░░░░░░░░░░░░░░░░░░   23.68 % 
-Friday                   74 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.98 % 
-Saturday                 52 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
-Sunday                   45 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Kyiv
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -98,7 +62,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/12/2023 18:37:33 UTC
+ Last Updated on 06/12/2023 18:37:58 UTC
 <!--END_SECTION:waka-->
 
 ### 🤝🏻 &nbsp;Connect with Me
