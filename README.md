@@ -43,8 +43,6 @@ I'm Eugene Conrad, I'm a self-taught software developer/embedded engineer from U
 ### 🛠 &nbsp;Statistics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C026%20hrs%2023%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.8%20million%20lines%20of%20code-blue)
@@ -82,8 +80,8 @@ Python                   3 hrs               ███████████�
 PyCharm                  3 hrs               █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    1 hr 31 mins        █████████████░░░░░░░░░░░░   50.67 % 
-Mac                      1 hr 29 mins        ████████████░░░░░░░░░░░░░   49.33 % 
+Linux                    1 hr 31 mins        █████████████░░░░░░░░░░░░   50.68 % 
+Mac                      1 hr 29 mins        ████████████░░░░░░░░░░░░░   49.32 % 
 ```
 
 **I Mostly Code in Python** 
@@ -99,7 +97,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/04/2024 18:59:15 UTC
+ Last Updated on 11/04/2024 18:36:08 UTC
 <!--END_SECTION:waka-->
 
 ### 🤝🏻 &nbsp;Connect with Me
