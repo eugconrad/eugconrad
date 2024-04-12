@@ -43,6 +43,8 @@ I'm Eugene Conrad, I'm a self-taught software developer/embedded engineer from U
 ### 🛠 &nbsp;Statistics
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C026%20hrs%2023%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.8%20million%20lines%20of%20code-blue)
@@ -74,14 +76,16 @@ Sunday                   40 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Kyiv
 
 💬 Programming Languages: 
-Python                   3 hrs               █████████████████████████   100.00 % 
+Python                   1 hr 29 mins        ██████████████████████░░░   88.07 % 
+C++                      10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
+INI                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
 
 🔥 Editors: 
-PyCharm                  3 hrs               █████████████████████████   100.00 % 
+PyCharm                  1 hr 29 mins        ██████████████████████░░░   88.07 % 
+VS Code                  12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
 
 💻 Operating System: 
-Linux                    1 hr 31 mins        █████████████░░░░░░░░░░░░   50.68 % 
-Mac                      1 hr 29 mins        ████████████░░░░░░░░░░░░░   49.32 % 
+Mac                      1 hr 41 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -97,7 +101,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 11/04/2024 18:36:08 UTC
+ Last Updated on 12/04/2024 18:36:17 UTC
 <!--END_SECTION:waka-->
 
 ### 🤝🏻 &nbsp;Connect with Me
